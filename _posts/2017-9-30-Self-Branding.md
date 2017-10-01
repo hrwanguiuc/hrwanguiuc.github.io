@@ -10,7 +10,7 @@ Hi I am Haoran, a graduate student at the Electrical and Computer Engineering de
 ### 1.Self-analysis
 Here is a summary about the strengths and weaknesses of myself:
 
-![WX20170930-145106@2x.png]({{site.baseurl}}/_posts/WX20170930-145106@2x.png)
+![WX20170930-145106@2x.png]({{site.baseurl}}/images/WX20170930-145106@2x.png)
 
 
 I think the most important characteristic that could distinguish myself is the willingness to talk about my own experience and listen to other's experience to learn something.  I think the best way for us to improve ourselves is learning from the past experience. Therefore, I really enjoy the reviewing of my own fault and success in the past, from study to life. At the same time, I am also listening to other's story like why a guy like Mark Zuckerberg could build an empire of the social media. So I think this is one of the most important characteristics that I would like to share. And it could be one of the most greatest competitiveness for one brand since we are always listening to our customers and willing to learn from the past experience.
@@ -20,7 +20,7 @@ On the other hand, I also need to overcome the weaknesses listed above. The most
 ### 2.External Analysis:
 I also asked my friends and family members the true opinions about me in terms of strength and weakness. Here is a brief summary:
 
-![WX20170930-150253@2x.png]({{site.baseurl}}/_posts/WX20170930-150253@2x.png)
+![WX20170930-150253@2x.png]({{site.baseurl}}/images/WX20170930-150253@2x.png)
 
  
 ### 3.Analysis of the two results:
