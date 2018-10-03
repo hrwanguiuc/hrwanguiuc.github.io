@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Haoran Wang
+name: Stormtrooper
 
 # Short bio or description (displayed in the header)
 description: Master@UIUC
@@ -19,12 +19,12 @@ avatar: "/images/stormshooter.png"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: torchvipcn@gmail.com
-  facebook: hrwang.uiuc
+  email: 
+  facebook: 
   flickr:
   github: hrwanguiuc
-  instagram: hrwang_0726
-  linkedin: haoran-wang-017082102
+  instagram: 
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
